@@ -7,3 +7,7 @@ JAVA FX
 
 - [@Read and parse CSV with JAVA](https://mkyong.com/java/how-to-read-and-parse-csv-file-in-java)
 
+
+
+JSF and GLASSFISH server
+https://www.youtube.com/watch?v=6jSzVlpylNQ
