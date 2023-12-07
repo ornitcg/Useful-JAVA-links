@@ -11,3 +11,4 @@ JAVA FX
 
 JSF and GLASSFISH server
 https://www.youtube.com/watch?v=6jSzVlpylNQ
+https://www.youtube.com/watch?v=N3smu1I5JWA
