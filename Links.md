@@ -9,11 +9,11 @@ JAVA FX
 
 
 
-JSF and GLASSFISH server
+- JSF and GLASSFISH server
 https://www.youtube.com/watch?v=6jSzVlpylNQ
 https://www.youtube.com/watch?v=N3smu1I5JWA
 https://www.youtube.com/watch?v=QtNv3UlfHeg
 
 
-DATA TRANSFER
+- DATA TRANSFER
 https://www.youtube.com/watch?v=2QGgEk20RXM
