@@ -1,6 +1,6 @@
 - [@Name](URL) 
 
-JAVA FX
+- JAVA FX
 
 -[@Full youtube course](https://www.youtube.com/watch?v=9XJicRt_FaI)
 -[@JAVAFX installation on eclipse](https://www.google.com/search?q=JAVAFX+eclipse&sca_esv=584824679&tbm=vid&sxsrf=AM9HkKmUOpHq2gQMATneORMbfHmfjn-7kw:1700734989901&source=lnms&sa=X&ved=2ahUKEwjt-LfH89mCAxWrSvEDHQmvDLwQ_AUoAXoECAIQAw&biw=1229&bih=566&dpr=1.56#fpstate=ive&vld=cid:f1fadfa7,vid:nz8P528uGjk,st:0)
@@ -19,5 +19,7 @@ https://www.youtube.com/watch?v=QtNv3UlfHeg
 https://www.youtube.com/watch?v=2QGgEk20RXM
 
 
--JAVA EE TUTPRIAL
+
+
+- JAVA EE TUTPRIAL
 https://docs.oracle.com/javaee/7/tutorial/partwebtier.htm#BNADP
