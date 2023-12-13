@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=QtNv3UlfHeg
 
 - DATA TRANSFER
 https://www.youtube.com/watch?v=2QGgEk20RXM
+
+
+-JAVA EE TUTPRIAL
+https://docs.oracle.com/javaee/7/tutorial/partwebtier.htm#BNADP
