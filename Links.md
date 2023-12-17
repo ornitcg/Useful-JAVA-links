@@ -19,7 +19,8 @@ https://www.youtube.com/watch?v=QtNv3UlfHeg
 https://www.youtube.com/watch?v=2QGgEk20RXM
 
 
-
+- Good explaination for JSP
+  https://www.geeksforgeeks.org/introduction-to-jsp/
 
 - JAVA EE TUTPRIAL
 https://docs.oracle.com/javaee/7/tutorial/partwebtier.htm#BNADP
