@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=2QGgEk20RXM
 
 - JAVA EE TUTPRIAL
 https://docs.oracle.com/javaee/7/tutorial/partwebtier.htm#BNADP
+
+- JAVA course online
+https://www.google.com/search?q=njkev+cJAVA&oq=njkev+cJAVA&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAtIBCDQxODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:596c45e6,vid:zrEjI7EfZuA,st:0
