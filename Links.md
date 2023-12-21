@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=N3smu1I5JWA
 https://www.youtube.com/watch?v=QtNv3UlfHeg
 
 
+-JSF components
+https://www.codingninjas.com/studio/library/components-in-jsf
+
 - DATA TRANSFER
 https://www.youtube.com/watch?v=2QGgEk20RXM
 
