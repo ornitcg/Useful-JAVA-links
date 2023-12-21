@@ -18,6 +18,9 @@ https://www.youtube.com/watch?v=QtNv3UlfHeg
 - JSF components
 https://www.codingninjas.com/studio/library/components-in-jsf
 
+- JSF tags for XHTML
+https://www.java4coding.com/contents/jsf/jsf-commandbutton-commandlink-outputlink
+
 - DATA TRANSFER
 https://www.youtube.com/watch?v=2QGgEk20RXM
 
