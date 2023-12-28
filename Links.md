@@ -35,5 +35,4 @@ https://docs.oracle.com/javaee/7/tutorial/partwebtier.htm#BNADP
 https://www.google.com/search?q=njkev+cJAVA&oq=njkev+cJAVA&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAtIBCDQxODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:596c45e6,vid:zrEjI7EfZuA,st:0
 
 
-- server side programming
-  https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaServlets.html#:~:text=Java%20servlets%20are%20server%2Dside,dynamic%20response%20for%20each%20request.
+- Server side programming  https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaServlets.html#:~:text=Java%20servlets%20are%20server%2Dside,dynamic%20response%20for%20each%20request.
