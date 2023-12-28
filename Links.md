@@ -38,4 +38,4 @@ https://www.google.com/search?q=njkev+cJAVA&oq=njkev+cJAVA&gs_lcrp=EgZjaHJvbWUyB
 - אתר מדהים מלא מידעServer side programming  https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaServlets.html#:~:text=Java%20servlets%20are%20server%2Dside,dynamic%20response%20for%20each%20request.
 
 - עוד מקור ממדיום
-- https://medium.com/@mellowacademy0507/getting-started-with-javaserver-faces-jsf-building-dynamic-web-applications-ae0b65a829fc
+https://medium.com/@mellowacademy0507/getting-started-with-javaserver-faces-jsf-building-dynamic-web-applications-ae0b65a829fc
