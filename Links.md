@@ -39,3 +39,7 @@ https://www.google.com/search?q=njkev+cJAVA&oq=njkev+cJAVA&gs_lcrp=EgZjaHJvbWUyB
 
 - עוד מקור ממדיום
 https://medium.com/@mellowacademy0507/getting-started-with-javaserver-faces-jsf-building-dynamic-web-applications-ae0b65a829fc
+
+בניית סרבר
+
+- https://www.youtube.com/watch?v=9vz-Dcdl8JA
