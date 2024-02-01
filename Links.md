@@ -43,3 +43,6 @@ https://medium.com/@mellowacademy0507/getting-started-with-javaserver-faces-jsf-
 בניית סרבר
 
 - https://www.youtube.com/watch?v=9vz-Dcdl8JA
+
+GAME WITH SERVER
+- https://medium.com/google-cloud/build-a-multi-platform-game-and-backend-api-in-5-minutes-fa8b94017011
