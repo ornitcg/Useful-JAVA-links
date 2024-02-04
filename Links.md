@@ -49,3 +49,8 @@ GAME WITH SERVER
 
 OPENGL es
 - https://www.google.com/search?sca_esv=37f724872de16756&sxsrf=ACQVn09c_c7qIiUZUYNbDUyJShPpGCWFOg:1707038773546&q=what+can+one+do+with+opengl+es&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj16tv9rpGEAxXS2QIHHXkPDNoQ0pQJegQIDBAB&biw=1139&bih=525&dpr=1.69#fpstate=ive&vld=cid:ab53fded,vid:CytbiJqIucA,st:0
+
+
+Full ECOMMERCCE ANDROID APP
+- https://www.youtube.com/watch?v=ryQHyOzQ9fA&list=PLZTETldyguF2bRz-ypCa3a8gumxeXB4pu&index=1&t=0s
+- 
