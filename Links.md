@@ -46,3 +46,6 @@ https://medium.com/@mellowacademy0507/getting-started-with-javaserver-faces-jsf-
 
 GAME WITH SERVER
 - https://medium.com/google-cloud/build-a-multi-platform-game-and-backend-api-in-5-minutes-fa8b94017011
+
+OPENGL es
+- https://www.google.com/search?sca_esv=37f724872de16756&sxsrf=ACQVn09c_c7qIiUZUYNbDUyJShPpGCWFOg:1707038773546&q=what+can+one+do+with+opengl+es&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj16tv9rpGEAxXS2QIHHXkPDNoQ0pQJegQIDBAB&biw=1139&bih=525&dpr=1.69#fpstate=ive&vld=cid:ab53fded,vid:CytbiJqIucA,st:0
