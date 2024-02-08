@@ -59,3 +59,6 @@ YOUTUBE ABOUT JAVA REST API WITH SPRINGBOOT
 
 Youtube another android rest api
 - https://www.youtube.com/watch?v=BZi44GOD8kY
+
+Youtube Drag and drop in android app
+- https://www.youtube.com/watch?v=HpWuWxhUn58
