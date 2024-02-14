@@ -62,3 +62,6 @@ Youtube another android rest api
 
 Youtube Drag and drop in android app
 - https://www.youtube.com/watch?v=HpWuWxhUn58
+
+LocalHost on android app
+- https://localtonet.com/blog/how-to-host-a-web-server-on-android
