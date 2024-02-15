@@ -65,3 +65,7 @@ Youtube Drag and drop in android app
 
 LocalHost on android app
 - https://localtonet.com/blog/how-to-host-a-web-server-on-android
+
+Volley
+- https://google.github.io/volley/
+
