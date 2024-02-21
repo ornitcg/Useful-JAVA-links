@@ -70,9 +70,11 @@ Volley
 - https://google.github.io/volley/
 
 
+@watched
 Dependency Injection explained
 - https://www.youtube.com/watch?v=GATSXm7WAxU
 
+@watched
 Anotations: How to create your own
 - https://www.youtube.com/watch?v=DkZr7_c9ry8
 
