@@ -69,3 +69,11 @@ LocalHost on android app
 Volley
 - https://google.github.io/volley/
 
+
+Dependency Injection explained
+- https://www.youtube.com/watch?v=GATSXm7WAxU
+
+Anotations: How to create your own
+- https://www.youtube.com/watch?v=DkZr7_c9ry8
+
+
