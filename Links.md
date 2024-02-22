@@ -78,4 +78,6 @@ Dependency Injection explained
 Anotations: How to create your own
 - https://www.youtube.com/watch?v=DkZr7_c9ry8
 
-
+@watched
+Rest server for employees database, build with spring boot - done coding along
+- https://www.youtube.com/watch?v=vovvcvcUkVI&t=1163s
