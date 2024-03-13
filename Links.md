@@ -81,3 +81,12 @@ Anotations: How to create your own
 @watched
 Rest server for employees database, build with spring boot - done coding along
 - https://www.youtube.com/watch?v=vovvcvcUkVI&t=1163s
+
+@android drag and drop
+- https://www.youtube.com/watch?v=8hzJNjj8Zck
+
+@ adding audio file to android app
+- https://www.youtube.com/watch?v=pGD3_O0ODTM
+
+@ login android app
+- https://www.youtube.com/watch?v=orXJRPNvAc4
