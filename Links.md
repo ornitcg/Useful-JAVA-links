@@ -90,3 +90,6 @@ Rest server for employees database, build with spring boot - done coding along
 
 @ login android app
 - https://www.youtube.com/watch?v=orXJRPNvAc4
+
+@ web server with java
+- https://www.youtube.com/watch?v=FqufxoA4m70
