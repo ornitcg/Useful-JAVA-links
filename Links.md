@@ -93,3 +93,6 @@ Rest server for employees database, build with spring boot - done coding along
 
 @ web server with java
 - https://www.youtube.com/watch?v=FqufxoA4m70
+
+@ How to create a grid view
+- https://www.youtube.com/watch?v=YWiOuKZGJC0&t=10s
